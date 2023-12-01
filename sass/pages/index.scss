@@ -1,0 +1,26 @@
+body {
+    background-image: url("../Images/backgroundLp.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.layout-container {
+    height: 100vh;
+    padding: 0 2rem;
+}
+
+.container {
+    max-width: 30rem;
+    color: #fff;
+
+    img {
+        width: 17rem;
+    }
+
+    .reset-style {
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@import "../responsives/mobile.scss";
