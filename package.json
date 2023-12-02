@@ -7,8 +7,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build:css": "sass src/sass/pages/index.scss:public/styles/index.css",
-    "watch:css": "sass --watch src/sass/pages/index.scss:public/styles/index.css"
+    "build:css": "sass sass/pages/index.scss:public/styles/index.css",
+    "watch:css": "sass --watch sass/pages/index.scss:public/styles/index.css"
   },
   "author": "",
   "license": "ISC",
