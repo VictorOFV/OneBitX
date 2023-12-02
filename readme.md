@@ -4,7 +4,7 @@
 
 Bem-vindo ao repositório da minha jornada no desenvolvimento web! Aqui está a minha estreia - uma landing page responsiva construída com Bootstrap e Sass.
 ## Instalação
-Clone Projeto
+Clone o Projeto
 ~~~bash  
   git clone https://github.com/VictorOFV/OneBitX.git
 ~~~
